@@ -6,7 +6,3 @@ The following notebook was used in data fitting of the reaction γp → ωp wher
 https://arxiv.org/pdf/2005.13067.pdf
 
 https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.065203
-
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
